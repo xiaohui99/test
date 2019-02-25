@@ -1,0 +1,121 @@
+{
+  "code": 1,
+  "prolist": [
+    {"img": "./static/images/pro_1.png",
+      "title": "中国石化50元加油卡",
+      "des": "一卡在手，全国加油",
+      "gold": 1212,
+      "num": 0,
+      "status": 0
+    },
+    {"img": "./static/images/pro_2.png",
+      "title": "猫眼电影10元电子券",
+      "des": "一券在手，电影我有",
+      "gold": 388,
+      "num": 100,
+      "status": 1
+    },
+    {"img": "./static/images/pro_3.png",
+      "title": "好乐迪30元代金券",
+      "des": "在这里，你可以唱得更好",
+      "gold": 888,
+      "num": 100,
+      "status": 2
+    },
+    {"img": "./static/images/pro_4.png",
+      "title": "costa30元咖啡券",
+      "des": "醇香之旅，情怀不移",
+      "gold": 888,
+      "num": 100,
+      "status": 3
+    },
+    {"img": "./static/images/pro_5.png",
+      "title": "1GB全国流量日包",
+      "des": "联通4G，纵享4G",
+      "gold": 88,
+      "num": 100,
+      "status": 1
+    },
+    {"img": "./static/images/pro_5.png",
+      "title": "3GB全国流量日包",
+      "des": "联通4G，纵享4G",
+      "gold": 288,
+      "num": 100,
+      "status": 1
+    },
+    {"img": "./static/images/pro_6.png",
+      "title": "1GB全国流量月包",
+      "des": "联通4G，纵享4G",
+      "gold": 288,
+      "num": 100,
+      "status": 1
+    },
+    {"img": "./static/images/pro_6.png",
+      "title": "3GB全国流量月包",
+      "des": "联通4G，纵享4G",
+      "gold": 388,
+      "num": 100,
+      "status": 1
+    }
+  ],
+  "mslist": [
+    {"img": "./static/images/pro_1.png",
+      "title": "中国石化50元加油卡",
+      "des": "一卡在手，全国加油",
+      "gold": 1212,
+      "num": 100,
+      "status": 0
+    },
+    {"img": "./static/images/pro_2.png",
+      "title": "猫眼电影10元电子券",
+      "des": "一券在手，电影我有",
+      "gold": 388,
+      "num": 100,
+      "status": 1
+    },
+    {"img": "./static/images/pro_3.png",
+      "title": "好乐迪30元代金券",
+      "des": "在这里，你可以唱得更好",
+      "gold": 888,
+      "num": 100,
+      "status": 2
+    },
+    {"img": "./static/images/pro_4.png",
+      "title": "costa30元咖啡券",
+      "des": "醇香之旅，情怀不移",
+      "gold": 888,
+      "num": 100,
+      "status": 3
+    }
+  ],
+  "recordlist": [
+    {"avatorImg": "./static/images/avator.png",
+      "username": "13888888888",
+      "text": "中国石化50元加油卡"
+    },
+    {"avatorImg": "./static/images/avator.png",
+      "username": "13888888888",
+      "text": "好乐迪30元代金券"
+    },
+    {"avatorImg": "./static/images/avator.png",
+      "username": "13888888888",
+      "text": "猫眼电影10元电子券"
+    },
+    {"avatorImg": "./static/images/avator.png",
+      "username": "13888888888",
+      "text": "1GB全国流量日包"
+    },
+    {"avatorImg": "./static/images/avator.png",
+      "username": "13888888888",
+      "text": "3GB全国流量日包"
+    },
+    {"avatorImg": "./static/images/avator.png",
+      "username": "13888888888",
+      "text": "1GB全国流量月包"
+    },
+    {"avatorImg": "./static/images/avator.png",
+      "username": "13888888888",
+      "text": "3GB全国流量月包"
+    }
+  ]
+}
